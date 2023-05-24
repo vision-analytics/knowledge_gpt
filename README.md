@@ -11,6 +11,21 @@ Accurate answers and instant citations for your documents.
 
 ## 💻 Running Locally
 
+
+## Run on Docker 🐳
+1. Clone the repository📂
+
+```bash
+git clone https://github.com/mmz-001/knowledge_gpt
+cd knowledge_gpt
+```
+
+2. Run docker compose command
+```bash
+docker-compose up --build
+```
+
+## Run on your local machine
 1. Clone the repository📂
 
 ```bash
