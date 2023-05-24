@@ -20,6 +20,13 @@ cd knowledge_gpt
 
 2. Install dependencies with [Poetry](https://python-poetry.org/) and activate virtual environment🔨
 
+2.1. Install with docker compose
+
+```bash
+docker-compose up
+```
+
+2.2 Install dependencies with poetry
 ```bash
 poetry install
 poetry shell
